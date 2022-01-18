@@ -21,3 +21,8 @@ npx react-native init mobile --template react-native-template-typescript
 ```
 
 Source: https://reactnative.dev/docs/typescript#getting-started-with-typescript
+
+## Notes for geofences
+https://www.npmjs.com/package/react-native-geo-fencing
+
+https://github.com/react-native-maps/react-native-maps/blob/master/docs/mapview.md
